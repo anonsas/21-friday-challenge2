@@ -10,7 +10,7 @@ _39 group website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: friday-challenge.netlify.app/
+Site published at: https://anonsas.github.io/21-friday-challenge2/
 
 Design: Inside this project with the name "design.png"
 
